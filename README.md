@@ -38,7 +38,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 # 📖 [Vet Clinic] <a name="about-project"></a>
 
-**[Vet Clinic]** is a relational database project based on a real-life-setting project.
+The **Vet Clinic** has implemented a PostgreSQL-based database, which serves as a comprehensive and efficient system for managing various aspects of veterinary care. This database consists of multiple interconnected tables, specifically designed to store information related to owners, veterinarians, visits, and other relevant data. With this database, the vet clinic can effectively manage and organize important information for the care and treatment of animals.
 
 ## 🛠 Built With <a name="built-with"></a>
 
