@@ -152,17 +152,13 @@ Feel free to check the [issues page](https://github.com/mohamedSabry0/vet-clinic
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project it would be truly appreciated if you give it a ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> We seek knowledge from the cradle to the grave.
 
 I am grateful for these resources as they were a reason that I obtained a glimpse of their abundance of knowledge:
 

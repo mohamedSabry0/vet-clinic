@@ -1,9 +1,5 @@
 /* Database schema to keep the structure of entire database. */
 
--- CREATE TABLE animals (
---     name varchar(100)
--- );
-
 CREATE TABLE animals(
     id int,
     name varchar(50),
